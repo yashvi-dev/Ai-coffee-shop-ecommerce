@@ -35,7 +35,7 @@ On the homepage, explore the most **famous coffee blends and breakfast pairings*
 
 ---
 
-## 📸 Screenshots  
+## 📸 Snipets  
 
 ### Homepage  
 ![Homepage](./homePage.png)  
