@@ -1,0 +1,37 @@
+/* body {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+} */
+
+/* Reset default styles */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: Arial, sans-serif;
+  background-color: #fff8e1; /* Creamy off-white background */
+  color: #333;
+  line-height: 1.6;
+}
+
+/* Ensure the root element takes up the full height */
+#root {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
+
+/* Optional: Style for links */
+a {
+  text-decoration: none;
+  color: inherit;
+}
+
+/* Optional: Style for buttons */
+button {
+  cursor: pointer;
+}
