@@ -60,12 +60,6 @@ On the homepage, explore the most **famous coffee blends and breakfast pairings*
 
 ---
 
-## 🔗 Deployment  
-- **Frontend**: [Vercel Link](#)   
-- **Backend**: [Vercel Link](#) 
-
----
-
 ## 👨‍💻 Tech Stack  
 - **Frontend**: React, Tailwind CSS  
 - **Backend**: Node.js, Express  
